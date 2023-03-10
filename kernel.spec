@@ -6,7 +6,6 @@ License: GPL
 Group: System Environment/Kernel
 Vendor: The Linux Community
 URL: https://www.kernel.org
-Source: kernel-6.2.2+.tar.gz
 Provides: kernel-drm kernel-6.2.2+
 BuildRequires: bc binutils bison dwarves
 BuildRequires: (elfutils-libelf-devel or libelf-devel) flex
